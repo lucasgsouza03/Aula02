@@ -1,4 +1,4 @@
 # Aula02
-Leonardo Di Caprio
-Tom Hanks
-Nicolas Cage
+Leonardo Di Caprio </br>
+Tom Hanks</br>
+Nicolas Cage</br>
